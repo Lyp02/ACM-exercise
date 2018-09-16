@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1535358191 source:f:\coding\lession5\main.cpp
+	<cstdio>
+	<algorithm>
+	<string>
+	<iostream>
+	<set>
+	<sstream>
+	<map>
+	<cctype>
+	<vector>
+	<algorithm>
+	<cstring>
+
+1535361818 source:f:\coding\question5\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+

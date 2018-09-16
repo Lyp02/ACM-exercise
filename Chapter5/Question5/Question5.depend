@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1535684917 source:f:\coding\question5\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<cmath>
+	<set>
+	<queue>
+	<map>
+	<algorithm>
+	<sstream>
+
